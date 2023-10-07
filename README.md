@@ -26,14 +26,14 @@ On the off chance that you are not familar with Git, you may download the [.ZIP 
     window_decorations = "RESIZE"
   }
   ```
-#### Team
+## Team
 This theme port is actively maintained by these amazing individuals:
 | [![Letrad](https://avatars.githubusercontent.com/u/134692905?s=70)](https://github.com/letrad) |
 | ------------------------------------------------------------------------------------------------ |
 | [Letrad](https://github.com/letrad)                                                            |
 
 
-#### License
+## License
 
 [MIT License](./LICENSE)
 
