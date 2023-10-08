@@ -4,7 +4,7 @@
 ### Install (Git)
 If you have Git installed on your system, you can simply use the `git clone` command to install this theme:
 ```bash
-git clone https://github.com/biscuit-theme/wezterm
+git clone https://github.com/biscuit-colorscheme/wezterm
 ``` 
 
 ### Installation (Manual)
