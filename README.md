@@ -19,8 +19,8 @@ On the off chance that you are not familar with Git, you may download the [.ZIP 
 2. Modify the wezterm.lua file (`$HOME/.config/wezterm/wezterm.lua`)
   ```lua
   return {
-    color_scheme = "biscuit-dark", # or biscuit-light (sourced from ./colors/)
-    ## Optional settings
+    color_scheme = "biscuit-dark", -- or biscuit-light (sourced from ./colors/)
+    -- Optional settings
     tab_bar_at_bottom = true,
     use_fancy_tab_bar = false,
     window_decorations = "RESIZE"
